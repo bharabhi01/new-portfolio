@@ -42,5 +42,9 @@
 }
 
 .resume-details-segment.ui.basic.segment {
-  border-left: 2px solid rgb(193, 193, 193);
+  border-left: 2px solid #e5e7eb;
+}
+
+.resume-details-segment.ui.basic.segment:hover {
+  border-left: 2px solid teal;
 }
