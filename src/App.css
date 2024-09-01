@@ -40,3 +40,7 @@
 .resume-card  {
   background: rgb(94, 242, 248);
 }
+
+.resume-details-segment.ui.basic.segment {
+  border-left: 2px solid rgb(193, 193, 193);
+}
